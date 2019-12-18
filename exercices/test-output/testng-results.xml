@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="22089" started-at="2019-12-17T15:53:40Z" finished-at="2019-12-17T15:54:02Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="22089" started-at="2019-12-17T15:53:40Z" finished-at="2019-12-17T15:54:02Z">
+      <class name="acial.selenium.exercices.Exercice2">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:acial.selenium.exercices.Exercice2@ae45eb6]" name="setUp" is-config="true" duration-ms="8424" started-at="2019-12-17T15:53:40Z" finished-at="2019-12-17T15:53:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="testLogin()[pri:1, instance:acial.selenium.exercices.Exercice2@ae45eb6]" name="testLogin" duration-ms="2116" started-at="2019-12-17T15:53:48Z" finished-at="2019-12-17T15:53:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLogin -->
+        <test-method status="PASS" signature="testAjouterEmploye(java.lang.String, java.lang.String, java.lang.String)[pri:2, instance:acial.selenium.exercices.Exercice2@ae45eb6]" name="testAjouterEmploye" duration-ms="3957" started-at="2019-12-17T15:53:50Z" data-provider="salaries" finished-at="2019-12-17T15:53:54Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[jean]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[ug]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[767868]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testAjouterEmploye -->
+        <test-method status="PASS" signature="testAjouterEmploye(java.lang.String, java.lang.String, java.lang.String)[pri:2, instance:acial.selenium.exercices.Exercice2@ae45eb6]" name="testAjouterEmploye" duration-ms="3201" started-at="2019-12-17T15:53:54Z" data-provider="salaries" finished-at="2019-12-17T15:53:57Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[jacques]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[tgfy]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[8468434]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testAjouterEmploye -->
+        <test-method status="PASS" signature="testAjouterEmploye(java.lang.String, java.lang.String, java.lang.String)[pri:2, instance:acial.selenium.exercices.Exercice2@ae45eb6]" name="testAjouterEmploye" duration-ms="3527" started-at="2019-12-17T15:53:57Z" data-provider="salaries" finished-at="2019-12-17T15:54:01Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[hnwtnh]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[whbwnn]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[867534]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testAjouterEmploye -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:acial.selenium.exercices.Exercice2@ae45eb6]" name="tearDown" is-config="true" duration-ms="831" started-at="2019-12-17T15:54:01Z" finished-at="2019-12-17T15:54:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- acial.selenium.exercices.Exercice2 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
